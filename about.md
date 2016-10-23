@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page.html
 video: youtube.com/embed/kajdfk
 ---
 # About
